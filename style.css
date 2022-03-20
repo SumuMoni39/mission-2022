@@ -1,0 +1,32 @@
+
+body{
+    font-family: 'Abril Fatface', cursive;
+}
+
+h1{
+    font-size: 50px;
+}
+.red-colour{
+    color: red;
+}
+.font-name{
+    font-family: serif;
+}
+button{
+    color: red;
+    background-color: black;
+    border-radius: 10px;
+}
+.font-name1{
+    font-family: serif ;
+}
+.first-section{
+display: flex;
+}
+.half-width{
+    width: 70%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 100%;
+}
